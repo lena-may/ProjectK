@@ -2,7 +2,7 @@
 
 int main()
 {
-// smth
+// smth///
 	return 0;
 	system("pause");
 }
